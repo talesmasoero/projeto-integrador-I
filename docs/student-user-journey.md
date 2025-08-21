@@ -1,9 +1,0 @@
-# Jornada do Usuário - Perfil do Aluno
-
-| Etapa | Ações do Aluno | Pontos de Dor | Oportunidades (Smart Attendance) |
-| :--- | :--- | :--- | :--- |
-| **1. Pré-Aula** | Desloca-se para a sala, muitas vezes já um pouco atrasado. | Sente ansiedade e pressa, pensando "preciso chegar a tempo para a chamada". | O sistema poderia ser flexível, permitindo uma **janela de tempo** para o registro, reduzindo a ansiedade do atraso. |
-| **2. Início da Aula** | Entra na sala, senta-se e tenta se concentrar no conteúdo. | A atenção fica dividida, esperando a qualquer momento a interrupção para a chamada. | A chamada poderia ser liberada de forma discreta, permitindo o registro em segundos **sem quebrar o ritmo da aula**. |
-| **3. A Chamada** | O professor para a aula. O Aluno espera pacientemente seu nome ser chamado. | • Tempo de aula é perdido.<br>• Tédio e impaciência por ser um dos últimos.<br>• Incerteza de quando seu nome será chamado, **pior ainda se a lista não estiver sendo projetada**. | A presença via código é **instantânea**, eliminando 100% do tempo de espera. |
-| **4. Resposta e Confirmação** | Ouve seu nome, responde "Presente!" e observa o professor. | A confirmação é incerta e impessoal. Não há garantia de que o registro foi feito corretamente. | Ao usar o sistema, o aluno recebe uma **confirmação visual, pessoal e imediata** no seu próprio celular. |
-| **5. Pós-Chamada** | Guarda seu material para sair ou tenta voltar a prestar atenção na aula. | • O fluxo da aula foi quebrado.<br>• **Risco de perder compromissos (ônibus, estágio) quando o conteúdo e a chamada se estendem além do horário oficial.** | Como o processo é rápido, **o sistema ajuda a garantir que a aula termine no horário**, respeitando os compromissos dos alunos. |

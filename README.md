@@ -1,10 +1,10 @@
-# Smart Attendance - Projeto Integrador I
+#  Smart Attendance - Projeto Integrador I 🚀
 
-## Descrição
+## 📝 Descrição
 
 O **Smart Attendance** é um sistema de controle de frequência acadêmica projetado para otimizar e modernizar o processo de chamada em sala de aula. A solução visa substituir o método manual, que consome tempo e interrompe o fluxo de ensino, por um sistema rápido e eficiente onde os alunos registram sua própria presença através de um código único gerado pelo professor.
 
-## Objetivos Iniciais
+## 🎯 Objetivos Iniciais
 
 O projeto busca validar uma solução computacional que atenda aos seguintes objetivos:
 
@@ -12,30 +12,29 @@ O projeto busca validar uma solução computacional que atenda aos seguintes obj
 * ✅ **Eliminar a interrupção** do fluxo da aula, permitindo que a chamada ocorra de forma discreta e paralela ao conteúdo.
 * ✅ **Fornecer confirmação imediata e segura** da presença para os alunos, eliminando incertezas.
 * ✅ **Oferecer flexibilidade** no registro, diminuindo a ansiedade dos alunos em relação a pequenos atrasos.
-* ✅ **Criar uma base para análise de dados** de frequência, oferecendo insights valiosos para professores e coordenadores (uma oportunidade identificada em nossa análise).
+* ✅ **Criar uma base para análise de dados** de frequência, oferecendo insights valiosos para professores e coordenadores.
 
-## Equipe e Papéis
+## 👥 Equipe e Papéis
 
-* **Tales Masoero:** Líder do Projeto e Desenvolvedor
+> **Instrução:** Discuta com sua equipe e preencha os nomes e responsabilidades abaixo.
+
+* **[Nome do Membro 1]:** 🧑‍💼 Líder do Projeto / Gerente de Produto
     * *Responsabilidades: Organizar as tarefas, garantir que os prazos sejam cumpridos e manter a visão geral do projeto.*
-* **Gabriel Rezende:** Desenvolvedor
+* **[Nome do Membro 2]:** ⚙️ Desenvolvedor(a) Backend
     * *Responsabilidades: Desenvolver a lógica do servidor, banco de dados e as regras de negócio do sistema.*
-* **Carlos Alberto:** Desenvolvedor
+* **[Nome do Membro 3]:** 🎨 Desenvolvedor(a) Frontend / UI/UX
     * *Responsabilidades: Criar as interfaces visuais e garantir uma boa experiência de usuário para alunos e professores.*
-* **Wagner Moreira:** Documentador(a) / QA (Quality Assurance)
-    * *Responsabilidades: Manter a documentação do projeto atualizada e realizar testes para garantir a qualidade do sistema.*
-* **Pedro Antonio:** Documentador(a) / QA (Quality Assurance)
+* **[Nome do Membro 4]:** ✍️ Documentador(a) / QA (Quality Assurance)
     * *Responsabilidades: Manter a documentação do projeto atualizada e realizar testes para garantir a qualidade do sistema.*
 
-## Organização do Projeto
+## 📂 Organização do Projeto
 
 > A estrutura de pastas será atualizada conforme a evolução do projeto.
 
-- **`/docs`**: Contém toda a documentação do projeto, incluindo a análise de usuários (mapas de empatia, jornadas), requisitos e futuras especificações técnicas.
+- **`/docs`**: Contém toda a documentação do projeto, incluindo a análise de usuários, requisitos e futuras especificações técnicas.
 - **`README.md`**: Este arquivo. Serve como a porta de entrada do projeto, contendo a descrição, objetivos, equipe e organização geral.
 
-## Documentação de Análise
+## 📄 Documentação de Análise
 
-* [Mapa de Empatia do Aluno](./docs/mapa-de-empatia.md)
-* [Jornada do Usuário - Aluno](./docs/jornada-do-usuario-aluno.md)
-* [Jornada do Usuário - Professor](./docs/jornada-do-usuario-professor.md)
+* [Mapas de Empatia (Aluno e Professor)](./docs/empathy-map.md)
+* [Jornadas de Usuário (Aluno e Professor)](./docs/user-journey.md)
