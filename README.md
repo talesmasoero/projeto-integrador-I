@@ -16,7 +16,7 @@ O projeto busca validar uma solução computacional que atenda aos seguintes obj
 
 ## 👥 Equipe e Papéis
 
-> **Instrução:** Discuta com sua equipe e preencha os nomes e responsabilidades abaixo.
+> **Instrução:** Discuta com sua equipe e preencha os nomes e responsabilidades abaixo:
 
 * **[Nome do Membro 1]:** 🧑‍💼 Líder do Projeto / Gerente de Produto
     * *Responsabilidades: Organizar as tarefas, garantir que os prazos sejam cumpridos e manter a visão geral do projeto.*
