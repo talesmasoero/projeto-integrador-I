@@ -1,7 +1,7 @@
 # Smart Attendance 🚀
 
 ## 📝 Visão Geral
-O projeto **Smart Attendance** é um sistema para registro, análise e acompanhamento de frequência. Ele surgiu a partir do projeto de mesmo nome no Caderno de Projetos do CUEB e da tentativa de reduzir o tempo gasto com o registro de presença durante as aulas. Trata-se de uma iniciativa institucional, planejada em incrementos (**PI-1** a **PI-4**), que busca fornecer indicadores e relatórios estratégicos para apoiar professores e coordenação.
+O projeto **Smart Attendance** é um sistema para registro, análise e acompanhamento de frequência. Ele surgiu a partir do projeto de mesmo nome no Caderno de Projetos do CEUB e da tentativa de reduzir o tempo gasto com o registro de presença durante as aulas. Trata-se de uma iniciativa institucional, planejada em incrementos (**PI-1** a **PI-4**), que busca fornecer uma forma inovadora de registrar a presença e atualizar esse paradigma que se mantém a anos.
 
 Este repositório documenta e acompanha o desenvolvimento do projeto, desde a concepção (PI-1) até a entrega final.
 
